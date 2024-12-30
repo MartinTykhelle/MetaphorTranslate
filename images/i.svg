@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="44"
+   height="55"
+   viewBox="0 0 44 55"
+   sodipodi:docname="i.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="14.672727"
+     inkscape:cx="22.013631"
+     inkscape:cy="27.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <image
+       width="44"
+       height="55"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAA3CAYAAAB3lahZAAAAAXNSR0IArs4c6QAAAARnQU1BAACx&#10;jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMjSURBVGhD7Zm7bsIwFIZNWloWJKQiIUEZkECd&#10;2Rm6MPEAbKgPw063vkAXRiR2xMzUrUwsMCIQIC4tNM1vbJoYp9iEUFD5pKMkji+/j49tYgKmBTkj&#10;DHY9GwKfn59n5eFLSPjNRbDf+BLDqJJXGwgEqB0KZcHIVi6XSbvdZik/XF9fU/v6+qK2XC6JtfrQ&#10;Mki/ubkhq9XK0Yn7+3vy9PREHh4eaJoyEKzCZDJBaw6zGjaz2azZ6/VMSyS1j48PczqdOqzf75u1&#10;Ws2MRCJbdbRaLdaCGp4Eh0Ihs9PpsBxruGjRLM+bz8/PpmEYjjoymQx9p4rypLPysrsfrMZJOBxm&#10;T2tk8crjOJVK0TJ2ut2utG43lAW7CREFcHF2rq6uqKjRaLQlTkcsUBaMSSMDYuxALJ+E3HgHbm9v&#10;6dULngW7wT3NxeKKzvHnfVEWHAwG2d3+iKMBfAsJr54BWI9FrBVEa/SUBbuBjcIOPCYzIE7QfTD4&#10;7rTLsHOJQMh8Pt/Ki53ObvAg0heLBSvphL9XMavTBu35LpPFH0Bsi3lFeLpbHUi3l//VWJmdILMM&#10;ndh2y6tTh6egQkNuHfELz62dnWAd+GrhheO6xwWdjpyEYB08CYZnsM4eE2XBuj9+/EJZMHYZkX+7&#10;rJ3spNPZ0dz4f4Jlse0nngQj9nQEu8X7UWNYR/AhlkbPgnU2jj+PYQylznDim86raM8ePoTXtOYB&#10;ux4FhI9sRPBdqIqy4EN40n4KZMcXD8s8g7TZbMaediMTqzMHgLJg2RqKxnSGE5/5okB0Qke0smAM&#10;pwhislqtSs8sZMRisa2OQyxONVXR+sugVCqR19dXlrIG5xLpdJo8Pj5uzoqxQcBzEFgsFkkikaBC&#10;J5MJSSaTZDgc0nycer1OCoUCe/odrT9lkHU8HpPBYODYtSAOXoYopOO8jE+keDxO7u7uNp5tNpsk&#10;n887VoxcLkcajYZ0FEUCVsXqAaQARIg+QIf4hMO79/d3UqlUyNvbG50D0WiUvLy8kEwms8nnxsEF&#10;qwLhGBU+UggtJQ9bBf9E8L4orxKnwkWw31wE+81FsL8Q8g0U48lf5JS9HAAAAABJRU5ErkJggg==&#10;"
+       id="image1"
+       style="display:none" />
+    <path
+       style="fill:#000000"
+       d="M 29,45.023388 C 27.794762,44.263296 27.401746,40.680033 27,26.788701 L 26.5,9.5 h -5 -5 V 26 42.5 l 4,0.608095 c 3.335728,0.507109 2.879041,0.63166 -2.75,0.75 L 11,44 V 26 8 l 9.75,0.015313 c 5.3625,0.00842 10.274468,0.3489744 10.915484,0.7567832 0.796571,0.5067711 1.271369,6.516355 1.5,18.985696 C 33.453435,43.462423 33.2912,45.999746 32,45.985696 c -0.825,-0.009 -2.175,-0.442015 -3,-0.962308 z"
+       id="path1" />
+  </g>
+</svg>
