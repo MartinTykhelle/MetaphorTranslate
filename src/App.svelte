@@ -37,6 +37,30 @@
   >
 
   <Keyboard {letters} on:keyboardClicked={addLetter}></Keyboard>
+  <div class="respects">
+    Based on the work of:
+    <ul>
+      <li>
+        <a href="https://www.reddit.com/user/XiTieShiZ/">XiTieShiZ</a> (<a
+          href="https://xitieshiz2.github.io">xitieshiz2.github.io</a
+        >) Reddit Post:
+        <a
+          href="https://www.reddit.com/r/MetaphorReFantazio/comments/1c6cs10/so_i_decrypted_those_esperanto_characters_in/"
+        >
+          So... I decrypted those Esperanto characters in Metaphor
+        </a>
+      </li>
+      <li>
+        <a href="https://www.reddit.com/user/Cautious-Click/">Cautious-Click</a>
+        Reddit Post:
+        <a
+          href="https://www.reddit.com/r/MetaphorReFantazio/comments/1g4myfp/metaphor_refantazio_glyph_translation_tool/"
+        >
+          Metaphor ReFantazio Glyph Translation Tool
+        </a>
+      </li>
+    </ul>
+  </div>
 </main>
 
 <style>
@@ -51,5 +75,12 @@
   textarea {
     height: 60px;
     width: 80%;
+  }
+  ul {
+    list-style: none;
+    margin-top: 0px;
+  }
+  .respects {
+    font-size: small;
   }
 </style>
